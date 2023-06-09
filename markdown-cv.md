@@ -1,13 +1,9 @@
 ##Umidjon Qurbonov
 ###junior frontend developer
 ####about my self
-#####Having started my career as a layout designer in a local newspaper with minimum skills, I became profficient in printing design. My keen interest in printing technologies led me to working as a Prepress and DTP Engineer in the largest printing house in my city, where I continued self-learning, examining the process of creating wine and food labels, magazines and other printed goods.
+#####Меня зовут Кира Йошикаге. Мне 33 года. Мой дом находится в северо-восточной части Морио, где расположены все виллы. Я не женат. Я работаю в универмаге Kame Yu и прихожу домой не позднее 8 вечера. Я не курю, но иногда выпиваю. Я ложусь спать в 11 вечера, и убеждаюсь, что я получаю ровно восемь часов сна, несмотря ни на что. Выпив стакан теплого молока и потянувшись минут двадцать перед сном, я обычно без проблем сплю до утра. Словно ребёнок я просыпаюсь утром без всякой усталости и стресса. На моём последнем осмотре мне сказали, что у меня нет никаких проблем со здоровьем. Я пытаюсь донести, что я обычный человек, который хочет жить спокойной жизнью. Я забочусь о том, чтобы не утруждать себя какими-либо врагами – победами и поражениями, которые могли бы потревожить мой сон. Вот как я отношусь к обществу, и я знаю, что это приносит мне счастье. Хотя, если бы мне пришлось сражаться, я бы никому не проиграл.
 
-Three years ago I’ve become passionate about retouching. I’ve mastered different retouching techniques, learned to work with graphic tablet, become an advanced Photoshop user and found my first job as a retoucher.
 
-Remote work as a retoucher gives me extra free time, which I spend learning Frontend Development. I’m interested in Web Development because this occupation provides endless possibilities for professional growth, besides there’s a huge amount of free high quality resources for self-education and a large community of developers.
-
-I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 ####Education
 #####Zaporizhzhya State Engineer Academy
 
@@ -17,6 +13,6 @@ Years: 1998 - 2003
 
 Specialization: Physical and Biomedical Electronics, Bachelor's degree
 ####Courses
-#####HTML and CSS Tutorials on w3schools
+HTML and CSS Tutorials on w3schools
 JavaScript Manual on learnjavascript.ru
 RS Schools «JavaScript/Front-end. Stage 0»
