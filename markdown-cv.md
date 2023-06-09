@@ -9,6 +9,6 @@
 
 ####Years: 2010-2023
 
-Specialization: Physical and Biomedical Electronics, Bachelor's degree
+
 ####Courses
-###frontend 
+###frontend & html+md
